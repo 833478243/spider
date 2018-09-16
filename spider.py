@@ -48,7 +48,5 @@ for page in range(start_page,end_page+1):
 e = d/alllong
         
 
-    # with open('salary.txt','w',encoding='utf8') as f:
-    #     f.write(all)
 print(e)
 
